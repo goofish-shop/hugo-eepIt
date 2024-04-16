@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 
 # theme
-theme = "keepit"
+theme = "KeepIt"
 # themes directory
 # themesDir = "../.."
 
