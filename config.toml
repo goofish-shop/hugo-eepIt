@@ -1,4 +1,4 @@
-baseURL = "https://goofish-shop.github.io/hugo-keepit/"
+baseURL = "https://goofish-shop.github.io/hugo-keepit"
 
 # theme
 theme = "keepit"
