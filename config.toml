@@ -3,7 +3,7 @@ baseURL = "https://example.com"
 # theme
 theme = "KeepIt"
 # themes directory
-themesDir = "../.."
+# themesDir = "../.."
 
 # website title
 title = "KeepIt"
