@@ -27,7 +27,7 @@ math:
 
 ### Features
 
-# 这是关于我的
+# 这是关于我的kitlog
 #### Performance and SEO
 
 * :(fas fa-rocket fa-fw): Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
